@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Week6_Qn7</string>
+    <string name="col1">S.No</string>
+    <string name="col2">FOOD ITEM</string>
+    <string name="col3">ORDER</string>
+
+    <string name="row1sno">1</string>
+    <string name="row1name">Idly</string>
+    <string name="row1order">Order</string>
+
+    <string name="row2sno">2</string>
+    <string name="row2name">Dosa</string>
+    <string name="row2order">Order</string>
+
+    <string name="row3sno">3</string>
+    <string name="row3name">Poori</string>
+    <string name="row3order">Order</string>
+
+    <string name="row4sno">4</string>
+    <string name="row4name">Chapatti</string>
+    <string name="row4order">Order</string>
+
+    <string name="row5sno">5</string>
+    <string name="row5name">Rice</string>
+    <string name="row5order">Order</string>
+
+    <string name="row6sno">6</string>
+    <string name="row6name">Roti</string>
+    <string name="row6order">Order</string>
+
+</resources>
